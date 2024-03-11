@@ -20,4 +20,4 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/animal-tracker-simulation.git
+git clone https://github.com/Buddhilasiri/FYP.git
